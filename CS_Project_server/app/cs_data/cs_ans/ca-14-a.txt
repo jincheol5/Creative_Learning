@@ -1,0 +1,2 @@
+레지스터 모드(register mode),레지스터 간접 모드(register indirect mode),상대주소지정 모드(direct address mode),즉치 모드(immediate mode)
+2

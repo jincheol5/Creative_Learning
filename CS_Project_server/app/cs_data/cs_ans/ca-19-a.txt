@@ -1,0 +1,2 @@
+연관기억장치 - memory 공간 확대,가상기억장치 - memory access 속도 증가,캐시기억장치 - memory access 속도 증가,복수모듈기억장치 - memory 공간 확대
+3
